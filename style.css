@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  color: blueviolet;
+}
+body {
+  background-color: rgb(33, 12, 12);
+}
